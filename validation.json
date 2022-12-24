@@ -1,0 +1,14 @@
+[
+    {
+      "text": "The product is terrible.",
+      "label": "negative"
+    },
+    {
+      "text": "The product is okay.",
+      "label": "neutral"
+    },
+    {
+      "text": "I love this product!",
+      "label": "positive"
+    }
+]

@@ -1,0 +1,18 @@
+[
+      {
+        "text": "This is a positive review of the product.",
+        "label": "positive"
+      },
+      {
+        "text": "This is a negative review of the product.",
+        "label": "negative"
+      },
+      {
+        "text": "The product is mediocre.",
+        "label": "neutral"
+      },
+      {
+        "text": "The product is amazing!",
+        "label": "positive"
+      }
+]
